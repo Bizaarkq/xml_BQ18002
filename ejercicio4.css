@@ -1,0 +1,11 @@
+/* ejercicio4.css BQ18002 */
+
+registrosemanal {background-color:lightgray; display:flex;}
+zona{display:inline; padding: 1em 4em;}
+zona[id]::before{content:attr(id);color:green;font-weight:bold;font-size:1cm;display:inline;}
+dia[name]::before{content:attr(name);color:blue;display:block;}
+dia{display:block;text-align:center; padding:0.5em;font-size:1.5em; margin-bottom:0.5em;}
+tempmenor{color:green;}
+tempmedia{color:yellow;}
+tempmayor{color:red;}
+

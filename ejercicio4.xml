@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type="text/css" href="ejercicio4.css"?>
+<registrosemanal>
+  <zona id="Occidental">
+    <dia name="Lunes">
+      <tempmenor>24</tempmenor>
+      <tempmedia>28</tempmedia>
+      <tempmayor>33</tempmayor>
+    </dia>
+    <dia name="Martes">
+      <tempmenor>24</tempmenor>
+      <tempmedia>28</tempmedia>
+      <tempmayor>33</tempmayor>
+    </dia>
+    <dia name="Miercoles">
+      <tempmenor>24</tempmenor>
+      <tempmedia>28</tempmedia>
+      <tempmayor>33</tempmayor>
+    </dia>
+    <dia name="Jueves">
+      <tempmenor>24</tempmenor>
+      <tempmedia>28</tempmedia>
+      <tempmayor>33</tempmayor>
+    </dia>
+    <dia name="Viernes">
+      <tempmenor>24</tempmenor>
+      <tempmedia>28</tempmedia>
+      <tempmayor>33</tempmayor>
+    </dia>
+  </zona>
+  <zona id="Central">
+    <dia name="Lunes">
+      <tempmenor>24</tempmenor>
+      <tempmedia>28</tempmedia>
+      <tempmayor>33</tempmayor>
+    </dia>
+    <dia name="Martes">
+      <tempmenor>24</tempmenor>
+      <tempmedia>28</tempmedia>
+      <tempmayor>33</tempmayor>
+    </dia>
+    <dia name="Miercoles">
+      <tempmenor>24</tempmenor>
+      <tempmedia>28</tempmedia>
+      <tempmayor>33</tempmayor>
+    </dia>
+    <dia name="Jueves">
+      <tempmenor>24</tempmenor>
+      <tempmedia>28</tempmedia>
+      <tempmayor>33</tempmayor>
+    </dia>
+    <dia name="Viernes">
+      <tempmenor>24</tempmenor>
+      <tempmedia>28</tempmedia>
+      <tempmayor>33</tempmayor>
+    </dia>
+  </zona>
+  <zona id="Oriental">
+    <dia name="Lunes">
+      <tempmenor>24</tempmenor>
+      <tempmedia>28</tempmedia>
+      <tempmayor>33</tempmayor>
+    </dia>
+    <dia name="Martes">
+      <tempmenor>24</tempmenor>
+      <tempmedia>28</tempmedia>
+      <tempmayor>33</tempmayor>
+    </dia>
+    <dia name="Miercoles">
+      <tempmenor>24</tempmenor>
+      <tempmedia>28</tempmedia>
+      <tempmayor>33</tempmayor>
+    </dia>
+    <dia name="Jueves">
+      <tempmenor>24</tempmenor>
+      <tempmedia>28</tempmedia>
+      <tempmayor>33</tempmayor>
+    </dia>
+    <dia name="Viernes">
+      <tempmenor>24</tempmenor>
+      <tempmedia>28</tempmedia>
+      <tempmayor>33</tempmayor>
+    </dia>
+  </zona>
+</registrosemanal>
