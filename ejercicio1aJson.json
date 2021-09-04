@@ -1,0 +1,23 @@
+﻿{
+	"fichero": {
+		"ficha": [
+			{
+				"nombre": "Antonio",
+				"apellido": "Barbero",
+				"direccion": "Calle de Los Andes, 45",
+				"_id": "1",
+				"_fechaingreso": "1/11/2012"
+			},
+			{
+				"nombre": "Edwin",
+				"apellido": "Quintanilla",
+				"direccion": "Colonia Los Naranjos",
+				"telefono": "71739893",
+				"email": "bq18002@ues.edu.sv",
+				"url": "http://xml.bq18002.tpi\"",
+				"_id": "2",
+				"_fechaingreso": "3/9/2021"
+			}
+		]
+	}
+}

@@ -1,0 +1,8 @@
+/* ejemplo2.css BQ18002 */
+pais {background-color:lightblue}
+
+departamento[nombre]::before{content:attr(nombre);color:red;font-weight:bold;}
+departamento{background-color:white;display:block;}
+cabecera{display:inline;}
+habitantes{color:yellow;display:inline;}
+altura{color:blue;display:none;}

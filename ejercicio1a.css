@@ -1,0 +1,11 @@
+/* ejemplo1.css BQ18002 */
+
+fichero {background-color:blue}
+
+ficha{background-color:red;display:block;}
+nombre{color:white;display:inline;}
+apellido{color:yellow;display:inline;}
+direccion{color:white;font-size:1cm;}
+telefono{color:green; display:none}
+email{color:green;display:block;}
+url{color:lightblue;}
