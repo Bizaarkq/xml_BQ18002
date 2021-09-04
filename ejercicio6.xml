@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type="text/css" href="ejercicio6.css"?>
+<ciclo>
+  <estudiante carnet="BQ18002">
+    <nombre>Edwin Isaac</nombre>
+    <apellidos>Bernabe Quintanilla</apellidos>
+  </estudiante>
+  <materia codigo="TPI115">
+    <nombrem>Técnicas de programacion para internet</nombrem>
+    <teorico>Martes de 8:00pm a 10:00pm</teorico>
+    <laboratorio>Miercoles de 8:00pm a 9:00pm</laboratorio>
+  </materia>
+  <materia codigo="COS115">
+    <nombrem>Comunicaciones 1</nombrem>
+    <teorico>Lunes y miercoles de 6:20am a 8:00am</teorico>
+    <laboratorio>Sabado de 8:05am a 9:45am</laboratorio>
+  </materia>
+  <materia codigo="SIC115">
+    <nombrem>Sistemas Contables</nombrem>
+    <teorico>Martes y Viernes de 6:20am a 8:00am</teorico>
+    <laboratorio>Miercoles de 3:05pm a 4:45pm</laboratorio>
+  </materia>
+  <materia codigo="SIO115">
+    <nombrem>Sistemas Operativos</nombrem>
+    <teorico>Martes de 6:35pm a 8:15pm</teorico>
+    <laboratorio>Sabado de 9:50am a 11:30am</laboratorio>
+  </materia>
+</ciclo>
