@@ -1,0 +1,9 @@
+/* ejercicio5.css BQ18002 */
+
+agenda {background-color:orange}
+
+contacto[nombre]::before{content:attr(nombre);color:green;font-weight:bold;font-size:1cm;display:block;background-color:white;}
+apellidos{display:block;}
+numero{display:inline;}
+email{color:yellow;display:block;}
+direccion{color:blue;display:inline;}

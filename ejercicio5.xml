@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type="text/css" href="ejercicio5.css"?>
+<agenda>
+  <contacto id="1" nombre="David">
+    <apellidos>Lopez Lara</apellidos>
+    <numero>71017893</numero>
+    <email>david@gmail.com</email>
+    <direccion>Col. Las Jacarandas</direccion>
+  </contacto>
+  <contacto id="2" nombre="Mauricio">
+    <apellidos>Guerrero Montez</apellidos>
+    <numero>74855631</numero>
+    <email>mauro@gmail.com</email>
+    <direccion>Calle linda vista</direccion>
+  </contacto>
+  <contacto id="3" nombre="Irene">
+    <apellidos>Gamez Santamaria</apellidos>
+    <numero>78652510</numero>
+    <email>Irene@gmail.com</email>
+    <direccion>Residencial Los montes</direccion>
+  </contacto>
+  <contacto id="4" nombre="Alexandrina">
+    <apellidos>Pereira Quintanilla</apellidos>
+    <numero>62559485</numero>
+    <email>ale@gmail.com</email>
+    <direccion>Maldonado</direccion>
+  </contacto>
+</agenda>
